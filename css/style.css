@@ -1,0 +1,30 @@
+body, html {
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+.btn {
+	font-weight: 700;
+	height: 36px;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+	cursor: default;
+}
+.user-att {
+	text-align: left !important;
+	margin: 40px 0;
+}
+
+#status-inf-not {
+	color: red;
+	padding-bottom: 10px;
+}
+
+#status-inf {
+	color: green;
+}
+
+#home-btn {
+	margin-right: 25px;
+}
