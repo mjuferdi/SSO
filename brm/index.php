@@ -1,17 +1,4 @@
 <!DOCTYPE html>		
-<?php
-	/*require_once('brm/simplesaml/lib/_autoload.php');
-	
-	$as = new SimpleSAML_Auth_Simple('brm-sp');
-	if (!$as->isAuthenticated()) {
-		print('<a href="https://dc01.local.wbs-training.de/adfs/ls/idpinitiatedsignon.aspx?logintoRP=https://mariom.info">Login</a>');
-	}
-	$as->requireAuth(array(
-		'ReturnTo' => 'https://mariom.info/info.php',
-		'KeepPost' => FALSE,
-	));
-	$attribute = $as->getAttributes();*/
-?>
 <html>
 	<head>
 		<title>Berechtigungsmanagement</title>
